@@ -12,12 +12,15 @@ Une fois les dossiers ouvert, vous devez :
    ```bash
    docker compose up -d
    ```
+
 2 - Ensuite, vous devez lancer BackendApplication se trouvant dans
    ```bash
    backend/src/main/java/.com.dorian.rh.backend
    ```
    s'il ne propose pas de le lancer automatiquement
-3 - Une fois Spring lancé, le backend sera prêt à être utilisé  
+   
+3 - Une fois Spring lancé, le backend sera prêt à être utiliser
+
 4 - Dans le frontend sur Webstorm, vous devez simplement faire un
    ```bash
    npm install
