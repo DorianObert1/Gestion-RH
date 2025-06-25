@@ -13,6 +13,8 @@ Une fois les dossiers ouvert, vous devez :
    docker compose up -d
    ```
 
+Ceci permet de créer un conteneur pour créer la base de données automatiquement.
+
 2 - Ensuite, vous devez lancer BackendApplication se trouvant dans
    ```bash
    backend/src/main/java/.com.dorian.rh.backend
